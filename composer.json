@@ -1,5 +1,5 @@
 {
-    "name": "romka777/nats",
+    "name": "repejota/nats",
     "description": "A nats.io client in PHP",
     "type": "library",
     "minimum-stability": "dev",
